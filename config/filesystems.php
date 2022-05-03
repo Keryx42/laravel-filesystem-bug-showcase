@@ -58,7 +58,7 @@ return [
 
         /*
          *  a public ftp I found for showcasing
-         *  he importan thing is that the configuration is valid except the root
+         *  the important thing is that the configuration is valid except the root
          */
         'bug_showcase_ftp' => [
             'driver' => 'ftp',
