@@ -6,4 +6,17 @@ This is a fresh laravel installation with following modifications
 - routes/web.php:18
   - a write action to the ftp is called. This causes the ErrorException (Bug) 
 
-Just run `php artisan serve`. You will get the bug presented directly 
+## Get it running
+I used on my machine
+- PHP 8.1.0
+- Composer 2.1.14
+
+### Clone this repo
+`git@github.com:Keryx42/laravel-filesystem-bug-showcase.git`
+
+### Install Composer dependencies
+`composer install` 
+
+### Start the server
+Just run `php artisan serve`.
+You will get the bug presented directly on the main page
