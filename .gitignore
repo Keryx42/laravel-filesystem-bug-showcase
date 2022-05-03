@@ -3,7 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
+#.env as this is a bug showcase it's not dangerous to add it to git
 .env.backup
 .phpunit.result.cache
 Homestead.json
