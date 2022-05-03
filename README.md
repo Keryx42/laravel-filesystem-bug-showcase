@@ -5,3 +5,5 @@ This is a fresh laravel installation with following modifications
   - a ftp configuration was added pointing to some public ftp I looked up for showcasing. Any ftp server will do
 - routes/web.php:18
   - a write action to the ftp is called. This causes the ErrorException (Bug) 
+
+Just run `php artisan serve`. You will get the bug presented directly 
